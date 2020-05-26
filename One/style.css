@@ -1,0 +1,28 @@
+body{
+    background-color: bisque !important;
+}
+input{
+    border-radius:10px;
+}
+.main{
+    margin: 0 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.title{
+    text-align: center;
+    margin: auto;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+.choose-expenses{
+    text-align: centers;
+    margin: auto;
+}
+button{
+    background-color: orangered;
+    margin: 10px 10px 10px 10px;
+}
+.result{
+    margin-right: 150px;
+}
